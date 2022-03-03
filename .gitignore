@@ -1,0 +1,12 @@
+*.DS_Store
+/logs/
+/.vscode/settings.json
+/.vscode/tasks.json
+/.vscode/*.log
+/docs/html/
+/docs/latex/
+/obj/
+/bin/
+/results/
+*gmon.out
+/include/sqlite_logger_config.h
